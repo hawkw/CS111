@@ -160,7 +160,7 @@ public class LinearArray {
     //------------------------------------------------------------
     // sort (direction): arranges the elements of the instance 
     // array in descending order if direction == 1 and in ascending
-    // order otherwise.
+    // order otherwise. Uses bubble-sort. I feel bad about this.
     //------------------------------------------------------------
     public void sort (int direction) {
 	int swap = 0; // stores elements being swapped
