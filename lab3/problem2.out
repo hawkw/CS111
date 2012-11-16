@@ -1,0 +1,61 @@
+Script started on Wed 19 Sep 2012 03:37:40 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ exit[2P17java problem2
+problem2.java 
+ Based on "TempConverter.java" by Lewis/Loftus 
+ 
+ Author: Hawk Weisman
+ Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013 
+ Lab 3 Problem
+ 
+ Converts a Fahrenheit temperature to a Celcius temperature. 
+
+Please enter the Fahrenheit temperature to be converted.
+32
+Fahrenheit temperature: 32.0
+Celcius equivalent: 0.0
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem2
+problem2.java 
+ Based on "TempConverter.java" by Lewis/Loftus 
+ 
+ Author: Hawk Weisman
+ Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013 
+ Lab 3 Problem
+ 
+ Converts a Fahrenheit temperature to a Celcius temperature. 
+
+Please enter the Fahrenheit temperature to be converted.
+17
+Fahrenheit temperature: 17.0
+Celcius equivalent: -8.333333333333334
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem2
+problem2.java 
+ Based on "TempConverter.java" by Lewis/Loftus 
+ 
+ Author: Hawk Weisman
+ Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013 
+ Lab 3 Problem
+ 
+ Converts a Fahrenheit temperature to a Celcius temperature. 
+
+Please enter the Fahrenheit temperature to be converted.
+100
+Fahrenheit temperature: 100.0
+Celcius equivalent: 37.77777777777778
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem2
+problem2.java 
+ Based on "TempConverter.java" by Lewis/Loftus 
+ 
+ Author: Hawk Weisman
+ Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013 
+ Lab 3 Problem
+ 
+ Converts a Fahrenheit temperature to a Celcius temperature. 
+
+Please enter the Fahrenheit temperature to be converted.
+85
+Fahrenheit temperature: 85.0
+Celcius equivalent: 29.444444444444443
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ exit
+exit
+
+Script done on Wed 19 Sep 2012 03:38:09 PM EDT

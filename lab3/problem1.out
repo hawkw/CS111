@@ -1,0 +1,81 @@
+Script started on Wed 19 Sep 2012 04:25:29 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem1
+Please enter your name and press enter.
+mary Smith^[[D^[[D^[[D^[[D                          Mary Smith
+Please enter your age and press enter.
+18
+Please enter the college you attend and press enter.
+Allegheny College
+Please enter the name of your pet and press enter.
+bust^[[D^[[D            Buster
+problem1.java
+Author: Hawk Weisman
+Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013
+Lab 3, Problem 1 
+
+Prompts the user for information and prints a block of text. 
+
+Hello, my name is Mary Smith and I am 18 years
+old. I'm enjoying my time at Allegheny College, though
+I miss my pet Buster very much!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem1
+Please enter your name and press enter.
+Bill Gezornenblatz
+Please enter your age and press enter.
+19
+Please enter the college you attend and press enter.
+juniata College
+Please enter the name of your pet and press enter.
+Rusty
+problem1.java
+Author: Hawk Weisman
+Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013
+Lab 3, Problem 1 
+
+Prompts the user for information and prints a block of text. 
+
+Hello, my name is Bill Gezornenblatz and I am 19 years
+old. I'm enjoying my time at juniata College, though
+I miss my pet Rusty very much!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem1
+Please enter your name and press enter.
+Howard Billings
+Please enter your age and press enter.
+21
+Please enter the college you attend and press enter.
+bowdi     Bowdoin College
+Please enter the name of your pet and press enter.
+Heather
+problem1.java
+Author: Hawk Weisman
+Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013
+Lab 3, Problem 1 
+
+Prompts the user for information and prints a block of text. 
+
+Hello, my name is Howard Billings and I am 21 years
+old. I'm enjoying my time at Bowdoin College, though
+I miss my pet Heather very much!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ java problem1
+Please enter your name and press enter.
+Hawk Weisman
+Please enter your age and press enter.
+18
+Please enter the college you attend and press enter.
+Allegheny College
+Please enter the name of your pet and press enter.
+Woody
+problem1.java
+Author: Hawk Weisman
+Course: CS111: Introduction to Computer Science I, Fall Semester 2012-2013
+Lab 3, Problem 1 
+
+Prompts the user for information and prints a block of text. 
+
+Hello, my name is Hawk Weisman and I am 18 years
+old. I'm enjoying my time at Allegheny College, though
+I miss my pet Woody very much!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab3weismanm@aldenv187:~/Documents/cs111/lab3$ sto[K[K[Kesx[K[Kxit
+exit
+
+Script done on Wed 19 Sep 2012 04:26:45 PM EDT

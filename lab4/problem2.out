@@ -1,0 +1,53 @@
+Script started on Wed 26 Sep 2012 03:29:56 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111weismanm@aldenv187:~/Documents/cs111$ java problem2
+problem2.java 
+ 
+Author: Hawk Weisman 
+Course: CS111: Intro to Computer Science 1Fall Semester 2012-2013 
+Laboratory #4 problem 2 
+ 
+Reads in the radiusof a sphere and computes its volume and surface area to four decimal places. 
+
+Please enter the radius of the sphere.
+1
+The volume of a sphere of radius 1.0 is 3.1416, and the surface area is 12.5664.
+]0;weismanm@aldenv187: ~/Documents/cs111weismanm@aldenv187:~/Documents/cs111$ java problem2
+problem2.java 
+ 
+Author: Hawk Weisman 
+Course: CS111: Intro to Computer Science 1Fall Semester 2012-2013 
+Laboratory #4 problem 2 
+ 
+Reads in the radiusof a sphere and computes its volume and surface area to four decimal places. 
+
+Please enter the radius of the sphere.
+5.3
+The volume of a sphere of radius 5.3 is 467.7109, and the surface area is 352.9894.
+]0;weismanm@aldenv187: ~/Documents/cs111weismanm@aldenv187:~/Documents/cs111$ java problem2
+problem2.java 
+ 
+Author: Hawk Weisman 
+Course: CS111: Intro to Computer Science 1Fall Semester 2012-2013 
+Laboratory #4 problem 2 
+ 
+Reads in the radiusof a sphere and computes its volume and surface area to four decimal places. 
+
+Please enter the radius of the sphere.
+17.87
+The volume of a sphere of radius 17.87 is 17927.6568, and the surface area is 4012.9058.
+]0;weismanm@aldenv187: ~/Documents/cs111weismanm@aldenv187:~/Documents/cs111$ java problem2
+problem2.java 
+ 
+Author: Hawk Weisman 
+Course: CS111: Intro to Computer Science 1Fall Semester 2012-2013 
+Laboratory #4 problem 2 
+ 
+Reads in the radiusof a sphere and computes its volume and surface area to four decimal places. 
+
+Please enter the radius of the sphere.
+1000
+The volume of a sphere of radius 1000.0 is 3141592653.5898, and the surface area is 12566370.6144.
+]0;weismanm@aldenv187: ~/Documents/cs111weismanm@aldenv187:~/Documents/cs111$ exit
+exit
+
+Script done on Wed 26 Sep 2012 03:30:29 PM EDT

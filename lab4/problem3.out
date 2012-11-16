@@ -1,0 +1,24 @@
+Script started on Wed 26 Sep 2012 04:52:31 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab4weismanm@aldenv187:~/Documents/cs111/lab4$ emacs problem2.javaSphere.java &problem2.java[Kjava MultiSphere.[K
+MultiSphere.java 
+ 
+Author: Hawk Weisman 
+Course: CS111; Intro to Computer Science I, Fall Semester 2012-2013 
+Laboratory #4 problem 3 
+ 
+Instantiates and updates several Sphere objects. 
+
+Sphere1's diameter is Diameter: 5.3, its volume is 77.952 and its surface area is 88.247.
+Sphere2's diameter is Diameter: 24.32, its volume is 7531.636 and its surface area is 1858.134.
+Sphere3's diameter is Diameter: 12.471, its volume is 1015.553 and its surface area is 488.599. 
+
+Sphere 2's diameter is 24.32
+
+Sphere1's diameter is Diameter: 32.74, its volume is 18375.309 and its surface area is 3367.497.
+Sphere2's diameter is Diameter: 24.32, its volume is 7531.636 and its surface area is 1858.134.
+Sphere3's diameter is Diameter: 12.471, its volume is 1015.553 and its surface area is 488.599. 
+
+]0;weismanm@aldenv187: ~/Documents/cs111/lab4weismanm@aldenv187:~/Documents/cs111/lab4$ exit
+exit
+
+Script done on Wed 26 Sep 2012 04:52:43 PM EDT

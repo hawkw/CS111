@@ -1,0 +1,37 @@
+Script started on Wed 12 Sep 2012 03:38:35 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem2
+Please enter the number of hours.
+1
+Please enter the number of minutes.
+1
+Please enter the number of seconds.
+1
+1 hours, 1 minutes, and 1 seconds are equivalent to 3661 seconds.
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem2
+Please enter the number of hours.
+2
+Please enter the number of minutes.
+4
+Please enter the number of seconds.
+12
+2 hours, 4 minutes, and 12 seconds are equivalent to 7452 seconds.
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem2
+Please enter the number of hours.
+5
+Please enter the number of minutes.
+6
+Please enter the number of seconds.
+7
+5 hours, 6 minutes, and 7 seconds are equivalent to 18367 seconds.
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem2
+Please enter the number of hours.
+23
+Please enter the number of minutes.
+59
+Please enter the number of seconds.
+59
+23 hours, 59 minutes, and 59 seconds are equivalent to 86399 seconds.
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ exirt[K[Kt
+exit
+
+Script done on Wed 12 Sep 2012 03:39:09 PM EDT

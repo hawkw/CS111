@@ -1,0 +1,111 @@
+//***********************************************************
+// Box.java
+//
+// Author: Hawk Weisman
+// Course: CS111: Introduction to Computer Science I
+// Fall Semester 2012-2013
+// Laboratory #6
+//
+// Represents a box, with height, width, depth, and contents.
+//***********************************************************
+
+public class Box {
+    private double height, width, depth;    // store the box's dimensions
+    private boolean full;                   // stores whether the box is empty or full
+
+    //-------------------------------------------------------
+    // constructor: defines a box with height, width, and
+    // depth.
+    //-------------------------------------------------------
+    public Box (double height, double width, double depth) {
+	this.height = height;
+	this.width = width;
+	this.depth = depth;
+	full = false; // each box is created empty
+    }
+
+    //-------------------------------------------------------
+    // getHeight: accessor for the box's height
+    //-------------------------------------------------------
+    public double getHeight(){
+	return height;
+    }
+
+    //-------------------------------------------------------
+    // getWidth: accessor for the box's width
+    //-------------------------------------------------------
+    public double getWidth(){
+	return width;
+    }
+    
+    //-------------------------------------------------------
+    // getDepth: accessor for the box's depth
+    //-------------------------------------------------------
+    public double getDepth(){
+	return depth;
+    } 
+
+    //-------------------------------------------------------
+    // getFull: accessor for the box's fullness status
+    //-------------------------------------------------------
+    public boolean getFull(){
+	return full;
+    }
+
+    //-------------------------------------------------------
+    // setHeight: mutator for the box's height
+    //-------------------------------------------------------
+    public void setHeight(double height){
+	this.height = height;
+    }
+
+    //-------------------------------------------------------
+    // setWidth: mutator for the box's width
+    //-------------------------------------------------------
+    public void setWidth(double width){
+	this.width = width;
+    }
+
+    //-------------------------------------------------------
+    // setDepth: mutator for the box's depth
+    //-------------------------------------------------------
+    public void setDepth(double depth){
+	this.depth = depth;
+    }
+
+    //-------------------------------------------------------
+    // setFull:  mutator for the box's fullness status
+    //-------------------------------------------------------
+    public void setFull(boolean full){
+	this.full = full;
+    }
+
+    //--------------------------------------------------------
+    // fitsInside: returns true if the box fits inside another
+    // Box given as an argument to fitsInside, and returns
+    // false if the box does not fit
+    //--------------------------------------------------------
+    public boolean fitsInside(Box targetBox) {
+	boolean fits = false; // whether or not this box fits in the target box
+	if (targetBox.getFull() == true){
+	    fits = false; // it doesn't fit if the target box is full (you can't put a box in a full box) 
+	} else if (targetBox.getWidth() > width && targetBox.getHeight() > height && targetBox.getDepth() > depth){ 
+	    fits = true; // it fits if the target box is larger than this box in all dimensions
+	} else if (targetBox.getWidth() <= width || targetBox.getHeight() <= height || targetBox.getDepth() <= depth){
+	    fits = false; // if the target is smaller than or equal to this box in one or more dimensions, it doesn't fit
+	} else {
+	} // this should never run
+	return fits;
+    }
+
+    //----------------------------------------------------------
+    // toString: returns a one-line description of the box's
+    // current state, with labels.
+    //----------------------------------------------------------
+    public String toString(){
+	return "Height: " + height + " Width: " + width + " Depth: " + depth + " Full: " + full;
+    }
+}
+	    
+
+

@@ -1,0 +1,54 @@
+Script started on Wed 10 Oct 2012 03:57:38 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab5weismanm@aldenv187:~/Documents/cs111/lab5$ exitjava GradeBook
+GradeBook.java
+Author: Hawk Weisman	Based on: GradeBook.java by Dr. Cupper.
+Course: CS111: Introduction to Computer Science I
+Fall Semester 2012-2013
+Laboratory #5
+
+Uses Student class to get lab and exam scores
+for two students and to compute and print out averages.
+
+Please input Student 1's name.
+Jennifer Smith
+Please input Student 1's major.
+Computer Science
+Please input Student 1's ID number.
+10001
+Please input Student 1's score on Lab 1.
+26.5
+Please input Student 1's score on Lab 2.
+28.0  
+Please input Student 1's score on Exam 1.
+87.5
+Please input Student 1's score on Exam 2.
+96.0  
+Please input Student 2's name.
+Travis Jones
+Please input Student 2's major.
+Communication Arts
+Please input Student 2's ID number.
+10002
+Please input Student 2's score on Lab 1.
+24
+Please input Student 2's score on Lab 2.
+28.5
+Please input Student 2's score on Exam 1.
+84
+Please input Student 2's score on Exam 2.
+90.5
+Student Name	ID Number	Major		Lab1	Lab2	Exam1	Exam2
+Jennifer Smith	10001	Computer Science	26.5	28.0	87.5	96.0
+Travis Jones	10002	Communication Arts	24.0	28.5	84.0	90.5
+Laboratory work:
+Student Name	Lab1	Lab2	Lab Average
+Jennifer Smith	26.5	28	27.2
+Travis Jones	24	28.5	26.2
+Exam work:
+Student Name	Exam1	Exam1	Exam Average
+Jennifer Smith	87.5	96	91.8
+Travis Jones	84	90.5	87.2
+]0;weismanm@aldenv187: ~/Documents/cs111/lab5weismanm@aldenv187:~/Documents/cs111/lab5$ exit
+exit
+
+Script done on Wed 10 Oct 2012 03:58:48 PM EDT

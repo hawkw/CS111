@@ -1,0 +1,27 @@
+Script started on Fri 12 Oct 2012 09:41:37 AM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab6weismanm@aldenv187:~/Documents/cs111/lab6$ java Boxt[Kte[K[KTest
+BoxTest.Java
+
+Author: Hawk Weisman
+Course: CS111: Introduction to Computer Science I
+Fall Semester 2012-2013
+Laboratory #6
+
+Instantiates and updates three Box objects.
+
+Box 1: Height: 5.0 Width: 4.5 Depth: 7.0 Full: false
+Box 2: Height: 4.75 Width: 3.5 Depth: 6.25 Full: false
+Box 3: Height: 6.0 Width: 4.25 Depth: 7.5 Full: false
+
+Box 2 fits inside Box 1.
+Box 3 does not fit inside Box 1.
+
+Box 2 does not fit inside Box 1.
+Box 3 fits inside Box 1.
+
+Box 2 is 4.75 units wide.
+Box 3: Height: 4.0 Width: 4.25 Depth: 7.5 Full: false
+]0;weismanm@aldenv187: ~/Documents/cs111/lab6weismanm@aldenv187:~/Documents/cs111/lab6$ exit
+exit
+
+Script done on Fri 12 Oct 2012 09:42:04 AM EDT

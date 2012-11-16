@@ -1,0 +1,61 @@
+Script started on Wed 12 Sep 2012 03:21:47 PM EDT
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem1
+Please enter the first integer.
+3
+Please enter the second integer.
+2
+The integers are 3 and 2.
+The sum is 5.
+The difference is 1.
+The product is 6.
+The quotient is 1.5.
+The remainder is 1.0.
+The average is 2.0.
+The square is 25.
+Have a nice day!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem1
+Please enter the first integer.
+4
+Please enter the second integer.
+5
+The integers are 4 and 5.
+The sum is 9.
+The difference is -1.
+The product is 20.
+The quotient is 0.8.
+The remainder is 4.0.
+The average is 4.0.
+The square is 81.
+Have a nice day!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem1
+Please enter the first integer.
+10
+Please enter the second integer.
+6
+The integers are 10 and 6.
+The sum is 16.
+The difference is 4.
+The product is 60.
+The quotient is 1.6666666666666667.
+The remainder is 4.0.
+The average is 8.0.
+The square is 256.
+Have a nice day!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ java problem1
+Please enter the first integer.
+-4
+Please enter the second integer.
+2
+The integers are -4 and 2.
+The sum is -2.
+The difference is -6.
+The product is -8.
+The quotient is -2.0.
+The remainder is 0.0.
+The average is -1.0.
+The square is 4.
+Have a nice day!
+]0;weismanm@aldenv187: ~/Documents/cs111/lab2weismanm@aldenv187:~/Documents/cs111/lab2$ exit
+exit
+
+Script done on Wed 12 Sep 2012 03:22:29 PM EDT
