@@ -4,8 +4,8 @@
 // Author: Hawk Weisman
 // Last Modified: in olden days, before the Fall
 //
-// Simulates everybody's favourite Computer Science professor (in glorious double
-// precision).
+// An advanced artificial intelligence that simulates everybody's favourite
+// Computer Science professor (in glorious doubleprecision).
 //
 // Copyright 2012 Conjectural Technologies, Ltd.. All rights reserved.
 //
@@ -66,7 +66,7 @@ public class automaticCupper {
 	    phrase = "go in peace, ";
 	} else if (phaseOfTheMoon <= 0.5) {
 	    phrase = "do good work, ";
-	} else { 
+	} else { 	// if this triggers, you are having a bad problem and will not be going to space today
 	    System.out.println("Jerk! Math is broken, come back later.");
         }
 	    
