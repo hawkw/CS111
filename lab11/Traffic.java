@@ -6,7 +6,7 @@
 // Fall Semester 2012-2013
 // Laboratory #11
 //
-// Simulates a two-lane intersection.
+// Simulates a two-way intersection.
 //**************************************************************
 
 import java.util.*;
