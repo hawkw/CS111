@@ -10,7 +10,7 @@
 // Represents a rectangle with a position, size, and color.
 //*******************************************************
 
-import java.awt.*;
+import java.awt.*; 
 
 public class Rect {
     private int w, h;     // stores the rectangle's width and height
@@ -22,11 +22,11 @@ public class Rect {
     // height, color, and x/y position
     //-------------------------------------------------
     public Rect (int w, int h, Color color, int x, int y) {
-	this.w = w;
-	this.h = h;
-	this.color = color;
-	this.x = x;
-	this.y = y;
+		this.w = w;
+		this.h = h;
+		this.color = color;
+		this.x = x;
+		this.y = y;
     }
 
     //-------------------------------------------------
@@ -34,22 +34,22 @@ public class Rect {
     // context.
     //-------------------------------------------------
     public void draw (Graphics page) {
-	page.setColor (color);
-	page.fillRect (x, y, w, h);
+		page.setColor (color);
+		page.fillRect (x, y, w, h);
     }
 
     //--------------------------------------------------
     // setWidth: mutator for the rectangle's width
     //--------------------------------------------------
     public void setWidth (int width) {
-	this.w = w;
+		this.w = w;
     }
     
     //--------------------------------------------------
     // setHeight: mutator for the rectangle's height
     //--------------------------------------------------
     public void setHeight (int h) {
-	this.h = h;
+		this.h = h;
     }
 
     //--------------------------------------------------
